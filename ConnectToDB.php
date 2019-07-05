@@ -43,7 +43,8 @@ body {font-family: "Lato", sans-serif}
     <a href="InsertData.php" class="w3-bar-item w3-button w3-padding-large">Insert</a>
     <a href="UpdateData.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Update</a>
     <a href="DeleteData.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Delete</a>
-    <a href="ConnectToDB.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">View</a>   
+    <a href="ConnectToDB.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">View</a> 
+<a href="index.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Home</a>   
     <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
   </div>
 </div>
