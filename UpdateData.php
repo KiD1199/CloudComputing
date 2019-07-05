@@ -22,26 +22,32 @@
     <!-- Latest compiled JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 </head>
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
 <body>
-    <header>
-        <div class="Navigation">
-                <div class="container">
-                    <div class="title">
-                        <a href="/index.php"><h3>ATN</h3></a>
-                    </div>
-                    <div class="rm">
-                        <div class="Menu">
-                            <ul>
-                                <li><a href="/InsertData.php">Insert</a></li>                               
-                                <li><a href="/UpdateData.php">Update</a></li>
-                                <li><a href="/DeleteData.php">Delete</a></li>
-                            </ul>
-                        </div>
-                        <a href="/ConnectToDB.php" class="button_btn">View</a>
-                    </div>
-                </div>
-            </div>
-    </header>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="InsertData.php" class="w3-bar-item w3-button w3-padding-large">Insert</a>
+    <a href="UpdateData.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Update</a>
+    <a href="DeleteData.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Delete</a>
+    <a href="ConnectToDB.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">View</a>   
+    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
+  </div>
+</div>
+    <head>
 <body style='background-color:#C0C0C0'>
 <div align="center">
 <h1>Update DATA TO DATABASE</h1>
