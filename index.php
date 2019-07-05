@@ -46,7 +46,8 @@ body {font-family: "Lato", sans-serif}
     <a href="ConnectToDB.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small">View</a>   
     <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
   </div>
-<images href="https://image2.baonghean.vn/w800/Uploaded/2019/tmpwijvi/2018_05_29/1712285_2952018.jpg"></images>
+<body>
+<images src="https://image2.baonghean.vn/w800/Uploaded/2019/tmpwijvi/2018_05_29/1712285_2952018.jpg"></images></body>
 </div>
 </body>
 </html>
