@@ -24,26 +24,6 @@ body {font-family: "Lato", sans-serif}
     <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
   </div>
 </div>
-<body>
-	<header>
-		<div class="Navigation">
-				<div class="container">
-					<div class="title">
-						<a href="/index.php"><h3>ATN</h3></a>
-					</div>
-					<div class="rm">
-						<div class="Menu">
-							<ul>
-								<li><a href="/InsertData.php">Insert</a></li>                               
-                                <li><a href="/UpdateData.php">Update</a></li>
-                                <li><a href="/DeleteData.php">Delete</a></li>
-							</ul>
-						</div>
-						<a href="/ConnectToDB.php" class="button_btn">View</a>
-					</div>
-				</div>
-			</div>
-	</header>
     <head>
 <title>Insert data to PostgreSQL with php - creating a simple web application</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -114,21 +94,5 @@ $stmt = $pdo->prepare($sql);
  }
 ?>
 </div>
-</body>
-
-	<div align="center">
-<footer> <!-- star footer -->
-			<div class="container">
-				<hr>
-				<div class="end-title">
-					<li><a href="#" class="facebook"></a></li>
-					<li><a href="#" class="twitter"></a></li>
-					<li><a href="#" class="google"></a></li>
-					<li><a href="#" class="skype"></a></li>
-					<h5 align="center">Made by HaiTac <a href="https://www.facebook.com/gavcv">facebook.com</a>. Accomplished.</h5>
-				</div>
-			</div>
-		</footer> <!-- end footer -->
-	</div>
 </body>
 </html>
