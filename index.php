@@ -22,66 +22,38 @@
 	<!-- Latest compiled JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 </head>
-<body>	
-		<header>	<!-- star end -->				
-			<div class="Navigation">
-				<div class="container">
-					<div class="title">
-						<a href="#"><h3 class="tit">ATN</h3></a>
-					</div>
-					<div class="rm">
-						<div class="Menu">
-							<ul>
-								<li><a href="/InsertData.php">Insert</a></li>								
-								<li><a href="/UpdateData.php">Update</a></li>
-								<li><a href="/DeleteData.php">Delete</a></li>
-								
-							</ul>
-						</div>
-						<a href="/ConnectToDB.php" class="button_btn">View</a>
-					</div>
-				</div>
-			</div>
-			<div class="caption">
-				<h2>Where will store all your data</h2>
-			</div>
-			
-			
-		<!-- collapse -->
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-6">
-					<div class="brand">
-						<h2>WHAT ARE YOU LOOKING FOR ?</h2>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="icol">
-						<span>
-							<a href="#" data-toggle="collapse" data-target="#mimi"><i class="fas fa-cog"></i></a>
-						</span>
-					</div>
-				</div>
-			</div>
-			<div class="collapse" id="mimi">
-					<table class="table">				
-						<tbody>
-							<tr>								
-								<td>checking in date<span class="span"></span></td>
-								<td>checking out date</td>
-							</tr>
-							<tr>								
-								<td>min.price</td>
-								<td>max.price</td>
-							</tr>
-							<tr>								
-								<td>keywords</td>
-								<td></td>
-							</tr>
-						</tbody>
-				</table>	
-			</div>	
-		</div><!--  end collapse -->
-		</header> <!-- end header -->
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+    <a href="#band" class="w3-bar-item w3-button w3-padding-large w3-hide-small">BAND</a>
+    <a href="#tour" class="w3-bar-item w3-button w3-padding-large w3-hide-small">TOUR</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CONTACT</a>
+    <div class="w3-dropdown-hover w3-hide-small">
+      <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i></button>     
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+        <a href="#" class="w3-bar-item w3-button">Merchandise</a>
+        <a href="#" class="w3-bar-item w3-button">Extras</a>
+        <a href="#" class="w3-bar-item w3-button">Media</a>
+      </div>
+    </div>
+    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
+  </div>
+</div>
 </body>
 </html>
