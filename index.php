@@ -24,7 +24,7 @@
 </head>
 <!DOCTYPE html>
 <html lang="en">
-<title>ATN</title>
+<title>ATN Home <3</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -49,5 +49,7 @@ body {font-family: "Lato", sans-serif}
 </div>
 </body>
 <body>
-<img style="width:100%; height:auto; margin:0 auto" src="https://image2.baonghean.vn/w800/Uploaded/2019/tmpwijvi/2018_05_29/1712285_2952018.jpg" alt="logo"></body>
+<img style="width:100%; height:auto; margin:0 auto" src="https://i.ytimg.com/vi/YTFojcykp-g/maxresdefault.jpg" alt="ATN Toy">
+<a> ATN Home </a>
+</body>
 </html>
