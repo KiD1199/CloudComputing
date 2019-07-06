@@ -33,7 +33,7 @@ body {font-family: "Lato", sans-serif}
 	</style>
 </head>
 </body>
-<body style='background-color:#C0C0C0;width:90%;height:auto'>
+<body style='background-color:#C0C0C0;height:90%'>
 <div align="center">
 <h1>INSERT DATA TO DATABASE</h1>
 	<h2>Enter data into produce table</h2>
