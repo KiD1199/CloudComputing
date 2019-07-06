@@ -1,5 +1,4 @@
-﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <title>InsertData</title>
 <meta charset="UTF-8">
@@ -12,7 +11,6 @@ body {font-family: "Lato", sans-serif}
 .mySlides {display: none}
 </style>
 <body>
-
 <!-- Navbar -->
 <div class="w3-top">
   <div class="w3-bar w3-black w3-card">
@@ -25,15 +23,16 @@ body {font-family: "Lato", sans-serif}
     <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
   </div>
 </div>
-    <head>
-<title>Insert data to PostgreSQL with php - creating a simple web application</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<style>
-li {
-list-style: none;
-}
-</style>
+<head>
+	<title>Insert data to PostgreSQL with php - creating a simple web application</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<style>
+	li {
+	list-style: none;
+	}
+	</style>
 </head>
+</body>
 <body style='background-color:#C0C0C0'>
 <div align="center">
 <h1>INSERT DATA TO DATABASE</h1>
