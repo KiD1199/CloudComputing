@@ -49,7 +49,8 @@ body {font-family: "Lato", sans-serif}
 </div>
 </body>
 <body>
+<div>
 <img style="width:100%; height:auto; margin:0 auto" src="https://i.ytimg.com/vi/YTFojcykp-g/maxresdefault.jpg" alt="logo">
-<a>ATN Home</a
+</div>
 </body>
 </html>
