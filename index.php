@@ -50,6 +50,6 @@ body {font-family: "Lato", sans-serif}
 </body>
 <body>
 <img style="width:100%; height:auto; margin:0 auto" src="https://image2.baonghean.vn/w800/Uploaded/2019/tmpwijvi/2018_05_29/1712285_2952018.jpg" alt="logo">
-<a> ATN Home </a>
+<a> ATN</a
 </body>
 </html>
