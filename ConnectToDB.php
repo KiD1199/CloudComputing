@@ -50,7 +50,7 @@ body {font-family: "Lato", sans-serif}
   </div>
 </div>
     <head>
-<body style='background-color:#C0C0C0'>
+<body style='background-color:#151515;margin-top:10%'>
 <div align="center">
 
 <h1>DATABASE CONNECTION</h1>

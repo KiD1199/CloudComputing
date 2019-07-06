@@ -50,7 +50,7 @@ body {font-family: "Lato", sans-serif}
   </div>
 </div>
     <head>
-<body style='background-color:#C0C0C0'>
+<body style='background-color:#2E2E2E;margin-top:10%'>
 <div align="center">
 <h1>Update DATA TO DATABASE</h1>
 <?php
